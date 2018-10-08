@@ -1,0 +1,25 @@
+body{
+    background: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.numero{
+    background: powderblue;
+    width: 250px;
+    margin: auto;
+    height:250px;
+    font-size: 100px;
+}
+
+.boton{
+    background: yellow;
+    width: 90px;
+    margin: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
